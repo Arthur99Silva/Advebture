@@ -1,1 +1,1 @@
-Jogo simples de labirinto
+Jogo simples de labirinto feito usando Java.
